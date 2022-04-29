@@ -1,5 +1,5 @@
 👋 Hi, I’m @aitchcoop
-🌱 I’m currently learning PowerShell and would like to learn Python
+🌱 I’m currently learning PowerShell and would like to learn Python.
 
 <!---
 👀 I’m interested in ...
